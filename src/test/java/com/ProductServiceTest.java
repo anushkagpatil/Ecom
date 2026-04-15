@@ -1,6 +1,5 @@
-package test.java.com;
-import main.java.com.Product;
-import main.java.com.ProductService;
+package com;
+
 import static org.junit.Assert.*;
 import org.junit.*;
 import java.util.*;
